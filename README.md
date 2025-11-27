@@ -1,2 +1,2 @@
 # Pizza-Order-App
-Pizza Order System Using Windows Form Application
+A C# Windows Forms application for managing pizza orders, including menu selection, order processing, and billing, with a user-friendly interface.
